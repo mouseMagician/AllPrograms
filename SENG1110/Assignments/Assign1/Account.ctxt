@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=Account()
+comment10.params=
+comment10.target=double\ calculateMonthlyPayment()
+comment11.params=
+comment11.target=void\ incrementI()
+comment12.params=
+comment12.target=java.lang.String\ getAmortizationTable()
+comment2.params=
+comment2.target=void\ setInterestRate()
+comment3.params=
+comment3.target=double\ getInterestRate()
+comment4.params=newMonths
+comment4.target=void\ setMonths(int)
+comment5.params=
+comment5.target=int\ getMonths()
+comment6.params=newAmount
+comment6.target=void\ setAmount(double)
+comment7.params=
+comment7.target=double\ getAmount()
+comment8.params=newAccountType
+comment8.target=void\ setAccountType(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getAccountType()
+numComments=13
